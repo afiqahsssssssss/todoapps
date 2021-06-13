@@ -16,6 +16,7 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('welcome');
 });
-
+//route for auth
+Auth::routes();
 //route for Homework
 Route::resource('homeworks', 'App\Http\Controllers\homeworkController');
