@@ -20,3 +20,6 @@ Route::get('/', function () {
 Auth::routes();
 //route for Homework
 Route::resource('homeworks', 'App\Http\Controllers\homeworkController');
+
+Route::resource('cats', 'App\Http\Controllers\catController');
+
