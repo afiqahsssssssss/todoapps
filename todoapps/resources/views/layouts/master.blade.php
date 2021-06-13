@@ -15,13 +15,12 @@
                 background-color: #ADD8E6;
                 color: #636b6f;
                 font-family: 'Nunito', sans-serif;
-                font-weight: 200;
-                height: 100h;
+                font-weight: 300;
                 margin: 0;
             }
 
             .full-height {
-                height: 100vh;
+                height: 50vh;
             }
 
             .flex-center {
@@ -45,7 +44,9 @@
             }
 
             .title {
+
                 font-size: 50px;
+                
             }
 
             .links > a {
@@ -59,7 +60,18 @@
             }
 
             .m-b-md {
+                padding-top:30px;
+                margin-top:0;
                 margin-bottom: 30px;
+            }
+            .navbar{
+                color: #636b6f;
+                padding: 10px;
+                font-size: 13px;
+                font-weight: 600;
+                letter-spacing: .1rem;
+                text-decoration: none;
+                text-transform: uppercase;
             }
         </style>
     </head>
@@ -108,8 +120,6 @@
 <script>
 </script>
 
-@section('footer')
-    <div id="copyright">Copyright 2021 IIUM</div>
 @show
 </body>
 </html>
