@@ -4,7 +4,7 @@
 <div class="row">
 <div class="col-sm-8 offset-sm-2">
 <br />
-<h3 class="display-5 text-center">Add New Homework Details</h3>
+<h3 class="display-5 text-center">Add New Homework</h3>
 
 <div>
 @if ($errors->any())
@@ -21,7 +21,7 @@
 <form method="post" action="{{ route('homeworks.store') }}">
     @csrf
     <div class="form-group">
-    <label for="task_name">Task Name</label>
+    <label for="task_name">Name</label>
     <input type="text" class="form-control" name="task_name"/>
     </div>
     <div class="row justify-content-center">
