@@ -23,3 +23,6 @@ Route::resource('homeworks', 'App\Http\Controllers\homeworkController');
 
 Route::resource('cats', 'App\Http\Controllers\catController');
 
+//route for reminder
+Route::resource('reminders', 'App\Http\Controllers\ReminderController');
+
