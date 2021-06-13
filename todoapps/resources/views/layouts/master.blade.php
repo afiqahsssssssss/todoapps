@@ -103,8 +103,8 @@
         <div class="navbar-inner">
             <ul class="nav">
             <li><a href="/">Home</a></li>
-            <li><a href="/">Task</a></li>
-            <li><a href="/">Reminder</a></li>
+            <li><a href="/cats">Task</a></li>
+            <li><a href="/reminders">Reminder</a></li>
             <li><a href="/homeworks">Homework</a></li>
             </ul>
         </div>
