@@ -50,13 +50,15 @@
             }
 
             .links > a {
-                color: #636b6f;
-                padding: 0 25px;
+                color: #000000;
+                margin-right: 380px;
+                padding: 18px 6% 60px 6%;
                 font-size: 13px;
                 font-weight: 600;
                 letter-spacing: .1rem;
                 text-decoration: none;
                 text-transform: uppercase;
+                
             }
 
             .m-b-md {
