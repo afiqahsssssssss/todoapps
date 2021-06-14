@@ -13,7 +13,6 @@ GROUP MEMBERS:
 
 <br> The video link : https://youtu.be/q9rTJ_PSf0Y</br>
 <br> The report link : https://docs.google.com/document/d/1nQDU61wvItUgaGBFwWEQiatcAGW9xPwz8EJHmb4Kjc8/edit?usp=drivesdk</br>
-<br> Individual report : https://drive.google.com/folderview?id=1asIt-z-6g-kubkA-HuimkbrwCzFCrhX0
 
 
 
